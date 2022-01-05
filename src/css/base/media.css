@@ -1,0 +1,42 @@
+.intro {
+    max-width: 130%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.film {
+    width: 120px;
+}
+
+.debut__article {
+    width:100%;
+    margin: auto;
+    position: relative;
+}
+
+.legende {
+    position: relative;
+}
+
+.img {
+    width: 100%;
+    margin: auto;
+}
+
+.lien__texte {
+    text-decoration: none;
+    color: var(--autres-articles)
+}
+.lien {
+    display:block;
+    background-color: var(--autres-articles);
+    color:white;
+    max-width: auto;
+    position: relative;
+    padding-top: 5%;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 5%;
+    text-align: center;
+
+}

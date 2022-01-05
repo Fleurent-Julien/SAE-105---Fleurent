@@ -1,0 +1,52 @@
+body {
+    background-color: var(--background);
+}
+
+main {
+    padding-left: var(--space2x);
+    padding-right: var(--space2x);
+}
+
+h3  {
+    font-family: var(--font-Alegreya);
+    font-size: var(--texte-article);
+    color: var(--texte);
+    font-weight: 400;
+}
+
+h2 {font-family: var(--font-Alegreya);
+    font-size: var( --texte-article);
+    font-weight: lighter;
+    color: var(--autres-articles)
+
+}
+
+b {
+    font-family: var(--font-Alegreya);
+    font-size: var(--bold);
+    color: var(--texte);
+    font-weight: 700;
+}
+
+i { font-family: var(--font-Alegreya);
+    font-size: var(--italic);
+    font-weight: italic;
+}
+
+.article {
+    clip-path:ellipse(33% 50%);
+    border-radius: 100%;
+    width: 100%
+}
+
+.contact {
+    background-color: var(--fond-sombre);
+}
+
+.droit {
+    padding-left: 30% ;
+}
+
+a {
+    text-decoration: none;
+}

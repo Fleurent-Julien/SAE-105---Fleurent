@@ -1,0 +1,33 @@
+.images15{
+	width: 300px;
+	height: 323px;
+	left: 0;
+}
+
+.images15 img {
+	width: 200px;
+	height: 323px;
+}
+
+.image15{
+	position: absolute;
+	top:0;
+	left:0;
+	z-index: 0;
+}
+
+.droite15{
+	grid-row: 2;
+	grid-column: 1;
+	width: 40px;
+}
+
+.carrousel{
+	grid-column: 2;
+	grid-row: 2;
+	width: 540px;
+	padding: 30px;
+	position: fixed;
+	overflow: hidden;
+}
+ 

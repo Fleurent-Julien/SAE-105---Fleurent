@@ -1,0 +1,16 @@
+.titre__article {
+    padding-left: 20%;
+    padding-right: 20%;
+    position: relative;
+    color: black;
+    text-align: center;
+
+}
+
+.titre {
+    font-family: var(--font-Alegreya);
+    font-size: var(--titre-article);
+    color: white;
+    border-top:1px solid var(--autres-articles);
+}
+  

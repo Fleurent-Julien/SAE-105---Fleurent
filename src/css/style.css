@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,700&family=Roboto&display=swap');
+
+/* Base */
+@import url('base/main.css');
+@import url('base/media.css');
+@import url('base/carrousel.css');
+
+/* Layout */
+@import url('layout/footer.css');
+@import url('layout/header.css');
+
+/* Utils */ 
+@import url('utils/variables.css');
+
+/* Vendors */
+@import url('vendors/normalize.css');
+
+/* Components */
+@import url('components/menu.css');
+@import url('components/contact.css');
+@import url('components/titre.css');
+@import url('components/ligne.css');

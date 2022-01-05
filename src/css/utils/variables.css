@@ -1,0 +1,30 @@
+:root {
+ /* Color styles */
+ --background: rgba(242, 238, 235, 1);
+ --fond-sombre: rgba(67, 55, 43, 1);
+ --autres-articles: rgba(147, 98, 72, 1);
+ --texte: rgba(16, 0, 5, 1);
+ --menu: rgba(105, 93, 81, 1);
+
+ /* Text-size styles */
+ --article: 12px;
+ --titre-article: 14px;
+ --texte-article: 14px;
+ --contact: 20px;
+ --nom-autres-sites: 15px;
+ --footer: 8px;
+ --roboto: 14px;
+ --esclavage: 17px;
+ --bold: 15px;
+ --italic: 14px;
+
+ /* Font-family styles */
+ --font-Alegreya: 'Alegreya', serif;
+ --font-Roboto: 'Roboto', sans-serif;
+
+ /* Espaces */
+ --space1x: 8px;
+ --space2x: 16px;
+ --space3x: 24px;
+ --space4x: 48px;
+}

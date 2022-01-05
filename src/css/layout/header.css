@@ -1,0 +1,11 @@
+.header__logo {
+    position: relative;
+    width: 100px;
+
+    
+}
+
+.header {
+    background-color: var(--fond-sombre);
+    font-family: var(--font-Alegreya);
+}
